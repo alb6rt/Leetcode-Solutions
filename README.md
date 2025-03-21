@@ -15,4 +15,6 @@
 
 35 - [Search Insert Position](C++/35-Search-Insert-Position.cpp) - [LeetCode Problem](https://leetcode.com/problems/search-insert-position) 
 
+704 - [Binary Search](C++/704-Binary-Search.cpp) - [LeetCode Problem](https://leetcode.com/problems/binary-search/) 
+
 912 - [Sort an Array](C++/912-Sort-An-Array.cpp) - [LeetCode Problem](https://leetcode.com/problems/sort-an-array/)
