@@ -11,4 +11,6 @@
 912 - [Sort an Array](C/912-Sort-An-Array.c) - [LeetCode Problem](https://leetcode.com/problems/sort-an-array/)
 
 ### C++
+1 - [Two Sum](C++/1-Two-Sum.cpp) - [LeetCode Problem](https://leetcode.com/problems/two-sum/) 
+
 912 - [Sort an Array](C++/912-Sort-An-Array.cpp) - [LeetCode Problem](https://leetcode.com/problems/sort-an-array/)
