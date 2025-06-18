@@ -19,7 +19,7 @@
 
 912 - [Sort an Array](C++/912-Sort-An-Array.cpp) - [LeetCode Problem](https://leetcode.com/problems/sort-an-array/)
 
-### Python
+### Python3
 74 - [Search a 2D Matrix](PYTHON/74-Search-A-2D-Matrix.py) - [LeetCode Problem](https://leetcode.com/problems/search-a-2d-matrix/) 
 
 704 - [Binary Search](PYTHON/704-Binary-Search.py) - [LeetCode Problem](https://leetcode.com/problems/binary-search/) 
